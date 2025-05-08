@@ -1,0 +1,2 @@
+# Plant_Disease_Detection_For_Sustainable_Agriculture
+Plant_Disease_Detection_For_Sustainable_Agriculture
