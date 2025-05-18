@@ -92,19 +92,6 @@ Example structure for treatment JSON:
 
 ---
 
-##  File Structure
-
-```
-├── plants_disease_detection_for_sustainable_agriculture.py
-├── requirements.txt
-├── README.md
-└── test/
-    └── test/
-        └── *.jpg/png
-```
-
----
-
 ##  Requirements
 
 Install all dependencies using:
