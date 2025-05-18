@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection for Sustainable Agriculture
+#  Plant Disease Detection for Sustainable Agriculture
 
 This project is a deep learning-based image classification system designed to detect plant diseases and recommend appropriate treatments. It uses a Convolutional Neural Network (CNN) built with TensorFlow/Keras and works with a dataset of plant leaf images.
 
